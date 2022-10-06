@@ -94,16 +94,18 @@ background-position: top right
 ### Propuesta 
 
 .pull-left[
-.center[<img src="imagenes/flujo_prototipo.png" height= "500"/>]
+.center[<img src="imagenes/flujo_prototipo.png" height= "400"/>]
 ]
 
 .pull-right[
 
 ### Posibles pasos a seguir
 
-- Disponibilizar base de datos
-- Generar un servicio con API
-- Django
++ Disponibilizar base de datos
+
++ Generar un servicio con API
+
++ Django
 
 ]
 
