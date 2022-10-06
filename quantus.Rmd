@@ -127,6 +127,5 @@ class: center, middle
 
 <a href="http://www.quantus-data.com/" style="float:center">www.quantus.cl</a>
 
----
 
 
